@@ -16,4 +16,6 @@
 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vanshmodanwal01&show_icons=true)
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,java,cpp,mysql,git,github,vscode" />
+</p>
