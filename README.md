@@ -13,5 +13,5 @@
 ⭐ Feel free to explore my repositories
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,java,cpp,mysql,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,java,cpp,git,github,vscode" />
 </p>
