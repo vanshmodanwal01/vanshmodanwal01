@@ -12,7 +12,7 @@
   
 ⭐ Feel free to explore my repositories
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=webdevpraveen&card_width=699)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=vanshmodanwal01&card_width=699)](https://git.io/streak-stats)
 <p align="left">
 <img src="https://skillicons.dev/icons?i=python,java,cpp,git,github,vscode" />
 </p>
